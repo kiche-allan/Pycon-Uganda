@@ -1,5 +1,5 @@
 # Pycon-Uganda
-# Python Custom Visuals in Power BI: Unleashing the Power of Data Visualization Description 
+# Python Custom Visuals in Power BI: Unleashing the Power of Data Visualization 
 
 Talk Format : **Talk(30 Minutes)**
 
